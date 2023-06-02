@@ -1,6 +1,6 @@
 [package]
 name = "allen_interval_algebra"
-version = "0.1.1"
+version = "0.1.2"
 edition = "2021"
 license = "MIT OR Apache-2.0"
 description = "A simple package for interval algebra for more information see https://en.wikipedia.org/wiki/Allen%27s_interval_algebra"
