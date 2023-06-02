@@ -1,0 +1,11 @@
+[package]
+name = "allen_interval_algebra"
+version = "0.1.0"
+edition = "2021"
+license = "MIT OR Apache-2.0"
+description = "A simple package for interval algebra for more information see https://en.wikipedia.org/wiki/Allen%27s_interval_algebra"
+repository = "https://github.com/zuper1998/allen_interval_algebra/"
+keywords = ["math", "interval","algebra"]
+readme = "README.md"
+[dependencies]
+log = "0.4.17"
